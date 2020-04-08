@@ -1,0 +1,35 @@
+.logo h1 {
+
+font-size: 30px;
+font-family: arial;
+
+
+
+
+
+}
+
+.logo{
+
+
+	text-align: center;
+
+	background: green;
+}
+
+
+
+.logo p{
+
+
+
+font-size: 18px;
+font-family: arial;
+
+}
+
+
+.f input[type=text] {
+
+	background-color: red;
+}
