@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 $dbHost     = "localhost";
-$dbUsername = "remarg8r_clkze";
-$dbPassword = "HAcKZ882@";
-$dbName     = "remarg8r_clkze";
+$dbUsername = "root";
+$dbPassword = "";
+$dbName     = "clkze";
 
 // Create database connection
 try{
